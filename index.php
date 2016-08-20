@@ -13,7 +13,7 @@ require '/views/layouts/header.php';
         </p>
         <img src="http://cdn.tugo.com.vn/wp-content/uploads/du-lich-nha-trang-1.jpg">
         <div class="global col-1">
-            <p><a href="">Các điểm du lịch mới</a></p>
+            <p><a href="">Các điểm du lịch mới nhất</a></p>
             <?php
 
             function character_limiter($str, $n = 500, $end_char = '&#8230;') {
